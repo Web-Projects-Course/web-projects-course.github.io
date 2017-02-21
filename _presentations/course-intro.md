@@ -22,6 +22,12 @@ Kelly Egan, kegan@risd.edu
 
 <section>
 
+http://bit.ly/web-projects-survey
+
+</section>
+
+<section>
+
 <h2>Objectives</h2>
 
 <p class="fragment">By the end of this course you will...</p>
