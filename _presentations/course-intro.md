@@ -11,7 +11,7 @@ transition: slide
 
 Photo‐5345, Spring 2016
 
-Thurs., 1 – 6pm
+Tues., 1 – 6pm
 </section>
 
 <section>
@@ -90,6 +90,7 @@ Kelly Egan, kegan@risd.edu
 
 </section>
 
+<!--
 <section>
   
 <h2>Average week</h2>
@@ -97,6 +98,7 @@ Kelly Egan, kegan@risd.edu
 <img src="/media/20160215_week.svg" class="plain">
 
 </section>
+-->
 
 <section>
   
