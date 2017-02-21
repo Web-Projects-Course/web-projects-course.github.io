@@ -9,7 +9,7 @@
 title: Web Projects
 email: kegan@risd.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Kelly Egan, Instructor &bull; Photo‐5345, Spring 2016 &bull; Thurs., 1 &ndash; 6pm
+  Kelly Egan, Instructor &bull; Photo‐5345, Spring 2017 &bull; Tues., 1:10 &ndash; 6:10pm
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://web-projects-course.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
