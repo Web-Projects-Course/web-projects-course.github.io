@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Week 1: Welcome to Web Projects!"
-date:   2016-01-20 20:25:14 -0500
+date:   2017-02-21 20:25:14 -0500
 categories: week
 ---
 
 <img src="/media/theInternetIs.jpg" alt="Googgle search for the internet is" width="100%">
 
-This is the course website for the RISD Photo Department's Spring 2016 section of Web Projects. 
+This is the course website for the RISD Photo Department's Spring 2017 section of Web Projects. 
 
 This site will serve as a digital syllabus for the course as well as a discussion space and reference for the class.
 
