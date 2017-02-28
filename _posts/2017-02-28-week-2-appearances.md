@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 2: Appearances"
+title:  "Week 2: Style"
 date:   2017-02-28 00:00:00 -0500
 categories: week
 ---
