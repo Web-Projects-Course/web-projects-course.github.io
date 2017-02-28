@@ -24,8 +24,9 @@ transition: slide
 
 <section>
   <h2>Hypertext</h2>
-  <p class="fragment">Hyper="over or more"</p>
-  <p class="fragment"><a href="#">Links!</a></p>
+  <p class="fragment">HTML is just text...</p>
+  <p class="fragment">...but it is also more (hence 'hyper')</p>
+  <p class="fragment">Structure, <span class="fragment">semantics,</span> <a href="#" class="fragment">Links!</a></p>
 </section>
 
 <section>
