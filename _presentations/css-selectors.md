@@ -116,6 +116,7 @@ h1 {
 </section>
 
 <section>
+  <h3>Class selector</h3>
   <p>A class can be selected by placing a period<br> before the name of the class.</p>
   
   <div class="fragment">
@@ -125,12 +126,20 @@ h1 {
     text-decoration: underline;
 }
     </code></pre>
-    <p>This would select any tag with a class of "important"</p>
+    
+    <pre><code class="html" data-trim contenteditable>
+    <p class="important">
+      This is an important paragraph
+</p>
+    </code></pre>
+    
+    
   </div>
 </section>
 
 <section>
-  <p>An id can be selected by placing a "#" before the id.</p>
+  <h3>ID selector</h3>
+  <p>An id can be selected by placing a <strong>"#"</strong> before the id.</p>
   
   <div class="fragment">
     <pre><code class="css" data-trim contenteditable>
@@ -139,7 +148,12 @@ h1 {
     text-decoration: underline;
 }
     </code></pre>
-    <p>This would select any tag with a id of "paragraph-1"</p>
+    
+        <pre><code class="html" data-trim contenteditable>
+    <p id="paragraph-1">
+      This is an important paragraph
+</p>
+    </code></pre>
   </div>
 </section>
 
@@ -179,16 +193,16 @@ h1 {
   <p>Selectors can be nested:</p>
   <div class="fragment">
     <pre><code class="css" data-trim contenteditable>
-    div h1 { color: blue; }
+    div strong { color: blue; }
     </code></pre>
     <p>This selects any <code>&lt;h1&gt;</code> tags inside <code>&lt;div&gt;</code> tags.</p>
-  </div> 
+  </div>
   
 <div class="fragment">
-<pre><code class="html"><h1>This is NOT affected</h1>
+<pre><code class="html"><strong>This is NOT affected</strong>
 
 <div>
-  <h1>This IS affected</h1>
+  <strong>This IS affected</strong>
 </div>
 </code></pre>
 </div>
@@ -199,13 +213,13 @@ h1 {
   <p>It doesn't matter how deeply nested they are:</p>
 
   <pre><code class="css" data-trim contenteditable>
-  div h1 { color: blue; }
+  div strong { color: blue; }
   </code></pre>
 
 <pre><code class="html"><div>
-  <div>
-    <h1>This IS still affected</h1>
-  </div>
+  <p>
+    <strong>This IS still affected</strong>
+  </p>
 </div>
 </code></pre>
 </section>
@@ -213,14 +227,14 @@ h1 {
 <section>
   <p>If you want to select only the first nesting use "&gt;"</p>
   <pre><code class="css">
-  div&gt;h1 { color: green; }
+  div&gt;strong { color: green; }
   </code></pre>
   
 <pre><code class="html"><div>
-  <h1>This IS affected</h1>
-  <div>
-    <h1>This is NOT affected</h1>
-  </div>
+  <strong>This IS affected</strong>
+  <p>
+    <strong>This is NOT affected</strong>
+  </p>
 </div>
 </code></pre>
 </section>
