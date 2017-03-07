@@ -16,7 +16,6 @@ transition: slide
   <p class="fragment">HTML = content, semantics</p>
 </section>
  
- 
 <section>
   <p>Syntax of CSS rule:</p>
   
