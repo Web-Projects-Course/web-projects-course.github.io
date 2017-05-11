@@ -23,4 +23,7 @@ transition: slide
     <p><img src="/media/ghpages_2_downloaddesktop.jpg" width="600px"/></p>
 </section>
 
-
+<section>
+    <p>Drag your project folder into GitHub Desktop.</p>
+    <p><img src="/media/ghpages_3_dragfolder.jpg" width="600px"/></p>
+</section>
