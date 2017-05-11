@@ -30,3 +30,8 @@ transition: slide
     <p>Click "Create and Add" to create repository.</p>
     <p><img src="/media/ghpages_4_create.jpg" width="600px"/></p>
 </section>
+
+<section>
+    <p>Commit the existing files to the repository.</p>
+    <p><img src="/media/ghpages_5_commit.jpg" width="600px"/></p>
+</section>
