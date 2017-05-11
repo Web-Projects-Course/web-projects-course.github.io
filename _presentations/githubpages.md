@@ -8,9 +8,7 @@ transition: slide
 
 
 <section>
- 
   <h2>Using GitHub Pages</h2>
-  
 </section>
 
 <section>
@@ -26,4 +24,9 @@ transition: slide
 <section>
     <p>Drag your project folder into GitHub Desktop.</p>
     <p><img src="/media/ghpages_3_dragfolder.jpg" width="600px"/></p>
+</section>
+
+<section>
+    <p>Click "Create and Add" to create repository.</p>
+    <p><img src="/media/ghpages_4_create.jpg" width="600px"/></p>
 </section>
