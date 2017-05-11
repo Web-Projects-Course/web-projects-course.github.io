@@ -8,7 +8,7 @@ transition: slide
 
 
 <section>
-  
+ 
   <h2>Using GitHub Pages</h2>
   
 </section>
