@@ -42,6 +42,11 @@ transition: slide
 </section>
 
 <section>
-    <p>Name your repository and give it a description, click "Publish</p>
+    <p>Name your repository and give it a description. <br/>Click "Publish Repository"</p>
     <p><img src="/media/ghpages_7_name.jpg" width="600px"/></p>
+</section>
+
+<section>
+    <p>View your repository on github.com. You can CTRL-Click on Repository name.</p>
+    <p><img src="/media/ghpages_8_viewongithub.jpg" width="600px"/></p>
 </section>
