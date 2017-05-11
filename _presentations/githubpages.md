@@ -55,3 +55,8 @@ transition: slide
     <p>Click on "Settings".</p>
     <p><img src="/media/ghpages_9_settings.jpg" width="600px"/></p>
 </section>
+
+<section>
+    <p>Scroll to the "GitHub Pages" section. Change "Source" from "None" to "Master branch" and save.</p>
+    <p><img src="/media/ghpages_10_source.jpg" width="600px"/></p>
+</section>
