@@ -50,3 +50,8 @@ transition: slide
     <p>View your repository on github.com. You can CTRL-Click on Repository name.</p>
     <p><img src="/media/ghpages_8_viewongithub.jpg" width="600px"/></p>
 </section>
+
+<section>
+    <p>Click on "Settings".</p>
+    <p><img src="/media/ghpages_9_settings.jpg" width="600px"/></p>
+</section>
