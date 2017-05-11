@@ -35,3 +35,8 @@ transition: slide
     <p>Commit the existing files to the repository.</p>
     <p><img src="/media/ghpages_5_commit.jpg" width="600px"/></p>
 </section>
+
+<section>
+    <p>Click "Publish". Name your project and give it a description.</p>
+    <p><img src="/media/ghpages_5_commit.jpg" width="600px"/></p>
+</section>
