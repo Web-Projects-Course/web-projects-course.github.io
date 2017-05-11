@@ -37,6 +37,11 @@ transition: slide
 </section>
 
 <section>
-    <p>Click "Publish". Name your project and give it a description.</p>
+    <p>Click "Publish".</p>
     <p><img src="/media/ghpages_6_publish.jpg" width="600px"/></p>
+</section>
+
+<section>
+    <p>Name your repository and give it a description, click "Publish</p>
+    <p><img src="/media/ghpages_7_name.jpg" width="600px"/></p>
 </section>
