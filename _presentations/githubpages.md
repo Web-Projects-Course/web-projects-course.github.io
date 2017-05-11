@@ -60,3 +60,8 @@ transition: slide
     <p>Scroll to the "GitHub Pages" section. Change "Source" from "None" to "Master branch" and save.</p>
     <p><img src="/media/ghpages_10_source.jpg" width="600px"/></p>
 </section>
+
+<section>
+    <p>View your project at the URL listed in <br/>the "GitHub Pages" section.</p>
+    <p><img src="/media/ghpages_11_url.jpg" width="600px"/></p>
+</section>
