@@ -38,5 +38,5 @@ transition: slide
 
 <section>
     <p>Click "Publish". Name your project and give it a description.</p>
-    <p><img src="/media/ghpages_5_commit.jpg" width="600px"/></p>
+    <p><img src="/media/ghpages_6_publish.jpg" width="600px"/></p>
 </section>
